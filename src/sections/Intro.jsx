@@ -4,7 +4,7 @@ import RoadmapCards from "../components/RoadmapCards";
 const Intro = () => {
   return (
     <>
-      <div className=" container-wrapper  px-4 ">
+      <div className=" container-wrapper  px-4 pb-[3rem] ">
    
      
     
