@@ -1,7 +1,7 @@
 import { FaTwitter, FaTelegram } from "react-icons/fa";
 function Hero() {
   return (
-    <section className=" pt-0  pb-[8rem] ">
+    <section className=" pt-0  pb-[1rem] ">
       <div className="container-wrapper">
         <div className="relative z-50">
           <div className=" flex justify-center flex-col items-center ">
