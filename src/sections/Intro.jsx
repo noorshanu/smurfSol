@@ -9,7 +9,7 @@ const Intro = () => {
      
     
 
-        <div className="  px-4  py-2 flex justify-between flex-col sm:flex-row items-center ">
+        <div className="  px-4  py-2 flex justify-between flex-col sm:flex-row items-center gap-6 sm:gap-2 ">
           <div className=" w-full sm:w-[500px] border-[#000000] border-2 rounded-2xl ">
             {/* <RoadmapCards /> */}
          
@@ -23,7 +23,7 @@ const Intro = () => {
            
           </div>
           <div className=" max-w-xl">
-          <h2 className="font-groot-one text-5xl my-6 sm:my-2 text-[#000000] text-center font-bold relative z-30 -mt-4">
+          <h2 className="font-groot-one text-5xl my-2 text-[#000000] text-center font-bold relative z-30 -mt-4">
           About Us
         </h2>
             <p className="font-semibold font-groot-one text-xl sm:text-3xl  text-black py-2">
