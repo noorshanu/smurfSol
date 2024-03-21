@@ -18,7 +18,7 @@ function Hero() {
         <a href="https://solscan.io/token/AiBdJXqhDVjPvhDZcykjMwdhJaNKuqE4rSbamMqq31Nq" target="_blank" className=" font-groot-two text-xs sm:text-xl text-center my-3 flex items-center justify-center ">CONTRACT: AiBdJXqhDVjPvhDZcykjMwdhJaNKuqE4rSbamMqq31Nq</a>
 
         <div className=" flex justify-center gap-4 items-center">
-          <a href="/" className="font-groot-one text-2xl uppercase text-black bg-[#ffffffbe] border-2 border-[#000000] py-2 px-6 rounded-full">
+          <a href="https://www.dextools.io/app/en/solana/pair-explorer/BSCXAbGA2XreZ9NM4a5sVup2HGTWC4VcJgAuQ3z8TpmM?t=1711006149740" target="_blank" className="font-groot-one text-2xl uppercase text-black bg-[#ffffffbe] border-2 border-[#000000] py-2 px-6 rounded-full">
             DexTools
           </a>
           <a href="https://t.me/smurfsol" target="_blank" className="font-groot-one text-2xl uppercase text-black bg-[#ffffffbe] border-2 border-[#000000] py-2 px-6 rounded-full">
