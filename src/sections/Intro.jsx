@@ -16,7 +16,7 @@ const Intro = () => {
             <img
               src="images/hero2.png"
               alt=""
-              className=" rounded-3xl  h-[400px] mx-auto mb-4  "
+              className=" rounded-3xl h-auto  sm:h-[400px] mx-auto mb-4  "
             />
           
 
