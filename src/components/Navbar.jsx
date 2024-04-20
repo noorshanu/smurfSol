@@ -9,7 +9,7 @@ function Navbar() {
           <img src="/images/logo.png" className="max-w-[7rem] w-full " alt="" />
 
           <div className="flex items-center space-x-6">
-            <a href="https://t.me/smurwif" target="_blank" className=" text-2xl text-white">
+            <a href="https://t.me/smurfwif" target="_blank" className=" text-2xl text-white">
               <FaTelegram />
             </a>
             <a href="https://x.com/Smurfwif" target="_blank" className=" text-2xl text-white">
