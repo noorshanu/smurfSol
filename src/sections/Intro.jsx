@@ -14,7 +14,7 @@ const Intro = () => {
             {/* <RoadmapCards /> */}
          
             <img
-              src="images/hero2.png"
+              src="images/hero.jpeg"
               alt=""
               className=" rounded-3xl h-auto  sm:h-[400px] mx-auto mb-4  "
             />
