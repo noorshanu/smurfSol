@@ -12,7 +12,7 @@ function Navbar() {
             <a href="https://t.me/smurwif" target="_blank" className=" text-2xl text-white">
               <FaTelegram />
             </a>
-            <a href="https://twitter.com/Smurfssol" target="_blank" className=" text-2xl text-white">
+            <a href="https://x.com/Smurfwif" target="_blank" className=" text-2xl text-white">
               <FaTwitter />
             </a>
           </div>
